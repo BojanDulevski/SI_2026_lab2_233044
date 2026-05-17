@@ -36,7 +36,12 @@
 4 одлуки + 1 = 5
 
 ## CFG Дијаграми
-[додај слики од дијаграмите]
+
+### searchBookByTitle
+![CFG searchBookByTitle](cfg_search.png)
+
+### borrowBook
+![CFG borrowBook](cfg_borrow.png)
 
 ## Every Statement тест случаи - searchBookByTitle
 Минимум: 4 тест случаи
